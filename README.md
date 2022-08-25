@@ -1,7 +1,5 @@
 # CadisMockup
 
-This is a MockUp Dash App used to examplify the future desing goal of CADIS as a Asset Management Dashboard.
-
 ## Requires:
 `Python>3.10`
 
